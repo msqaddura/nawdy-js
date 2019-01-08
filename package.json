@@ -1,0 +1,23 @@
+{
+  "name": "nawdy",
+  "version": "1.0.0",
+  "description": "Naughty tools for Linux when sudo doesnt help",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  --experimental-modules index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/msqaddura/nawdy-js.git"
+  },
+  "keywords": [
+    "Linux"
+  ],
+  "author": "Mohamad Qaddura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msqaddura/nawdy-js/issues"
+  },
+  "homepage": "https://github.com/msqaddura/nawdy-js#readme"
+}
