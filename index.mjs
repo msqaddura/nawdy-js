@@ -1,2 +1,3 @@
-import  {exec}  from "child_process"
+import { Xrandr } from './xrandr'
 
+Xrandr.getConnectedMonitors().then(screens=>console.log(screens))
